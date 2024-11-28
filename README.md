@@ -6,6 +6,7 @@ Este proyecto es un taller de ingeniería de datos que incluye análisis y proce
 
 ## Estructura del Proyecto
 
+```
 ├── .gitignore
 ├── data/
 │ ├── raw/
@@ -24,6 +25,7 @@ Este proyecto es un taller de ingeniería de datos que incluye análisis y proce
 README.md
 └──
 requirements.txt
+```
 
 ## Requisitos
 
